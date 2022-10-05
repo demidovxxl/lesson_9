@@ -1,0 +1,28 @@
+p{
+	font-size: 20px;
+	line-height: 1.2;
+}
+img{
+	max-width: 1900px;
+	margin: 0 auto;
+}
+span:first-child{
+	color: red;
+}
+span:nth-child(2){
+	color: green;
+}
+span:last-child{
+	color: blue;
+}
+h1{
+	font-weight: 700;
+	font-size: 32px;
+	text-align: center;
+	padding: 10px;
+}
+.screenshot__text-box{
+	margin: 0 auto;
+	max-width: 800px;
+	padding: 50px;
+}
